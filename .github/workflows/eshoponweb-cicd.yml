@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 71b5939b-c815-41f4-a455-8323e846ebea
-  WEBAPP-NAME: eshoponweb-webapp-rabindra1604
+  WEBAPP-NAME: eshoponweb-webapp-rabindra1704
 
 
 jobs:
